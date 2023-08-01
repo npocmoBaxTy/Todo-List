@@ -59,6 +59,3 @@ Distributed under the MIT License. See [LICENSE](https://github.com/FacelessZ/To
 ## Acknowledgements
 
 * [FacelessZ](https://github.com/npocmoBaxTy)
-* []()
-* []()
-* []()
