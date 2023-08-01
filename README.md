@@ -29,7 +29,7 @@
 
 ## About The Project
 
-![Screen Shot](img/screenshot.png)
+![Screen Shot](img/screnshot.png)
 
 
 ## Contributing
